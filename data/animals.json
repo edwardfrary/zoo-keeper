@@ -1,5 +1,5 @@
 {
-  "animals": [
+  "animal": [
     {
       "id": "0",
       "name": "Spindle",
@@ -108,6 +108,24 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Edward",
+      "species": "lion",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Edward",
+      "species": "lion",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
     }
   ]
 }
